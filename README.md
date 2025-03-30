@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* I'm currently working on multimodal field, especially on image captioning.
+* I'm currently learning all about the deep learning, include training, infer and the computer science mechanism below them.
+* I love Yorushika. I love n-buna.
+* Contact: morninghut@outlook.com
